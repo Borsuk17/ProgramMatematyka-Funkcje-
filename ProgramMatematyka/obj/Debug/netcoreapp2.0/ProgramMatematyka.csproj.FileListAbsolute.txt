@@ -1,0 +1,33 @@
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.deps.json
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.json
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.dev.json
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.dll
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.pdb
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csproj.CoreCompileInputs.cache
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfoInputs.cache
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfo.cs
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.dll
+c:\users\macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.pdb
+C:\Users\Macie\source\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csprojResolveAssemblyReference.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.deps.json
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.json
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.dev.json
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.dll
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.pdb
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csprojAssemblyReference.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csproj.CoreCompileInputs.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfoInputs.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfo.cs
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.dll
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\ProgramMatematyka\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.pdb
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.deps.json
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.json
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.runtimeconfig.dev.json
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.dll
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\bin\Debug\netcoreapp2.0\ProgramMatematyka.pdb
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csprojAssemblyReference.cache
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.csproj.CoreCompileInputs.cache
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfoInputs.cache
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.AssemblyInfo.cs
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.dll
+C:\Users\Macie\Documents\GitHub\ProgramMatematyka-Funkcje-\ProgramMatematyka\obj\Debug\netcoreapp2.0\ProgramMatematyka.pdb
